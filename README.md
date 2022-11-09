@@ -7,7 +7,7 @@
 
 - 📫 How to reach me 👉🏼 **info@javierblanco.pro**
 
-<h3 align="left">Sobre mí:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
   
 I'm a normal person, who tries to solve the maximum possible problems, causing as few problems as possible.
