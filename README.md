@@ -12,7 +12,7 @@
   
 I'm a normal person, who tries to solve the maximum possible problems, causing as few problems as possible.
 
-I'm an 👁️ Optician-Optometrist and an 👂🏻Audiologist-Hearing Prosthetist.
+I'm 👁️ Optometrist and 👂🏻Audiologist.
 
 I love my 🥼 health profession just as I love renewing my knowledge, and there is no doubt that the future goes hand in hand with technology 💻, which is why I decided to study programming: The branch I have bet on in the long term.
 </p>
