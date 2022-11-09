@@ -7,8 +7,14 @@
 
 - 📫 How to reach me 👉🏼 **info@javierblanco.pro**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sobre mí:</h3>
 <p align="left">
+  
+I'm a normal person, who tries to solve the maximum possible problems, causing as few problems as possible.
+
+I'm an 👁️ Optician-Optometrist and an 👂🏻Audiologist-Hearing Prosthetist.
+
+I love my 🥼 health profession just as I love renewing my knowledge, and there is no doubt that the future goes hand in hand with technology 💻, which is why I decided to study programming: The branch I have bet on in the long term.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
