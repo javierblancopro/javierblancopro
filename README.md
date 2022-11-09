@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at 👉🏼 [https://javierblanco.pro/](https://javierblanco.pro/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and PHP ✅**
+- 💬 Ask me about **✅ HTML, CSS, JavaScript and PHP**
 
 - 📫 How to reach me 👉🏼 **info@javierblanco.pro**
 
