@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, My name is Javier Blanco</h1>
+<h1 align="center">Hello 👋, My name is Javier Blanco</h1>
 <h3 align="center">I'm passionate about technology</h3>
 
 - 👨‍💻 All of my projects are available at [https://javierblanco.pro/](https://javierblanco.pro/)
