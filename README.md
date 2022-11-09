@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, My name is Javier Blanco</h1>
-<h3 align="center">I'm passionate about technology</h3>
+<h3 align="center">I'm passionate about technology 💻</h3>
 
-- 👨‍💻 All of my projects are available at [https://javierblanco.pro/](https://javierblanco.pro/)
+- 👨‍💻 All of my projects are available at 👉🏼 [https://javierblanco.pro/](https://javierblanco.pro/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript and PHP**
 
-- 📫 How to reach me **info@javierblanco.pro**
+- 📫 How to reach me 👉🏼 **info@javierblanco.pro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
