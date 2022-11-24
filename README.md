@@ -1,20 +1,15 @@
 <h1 align="center">Hello 👋, My name is Javier Blanco</h1>
-<h3 align="center">I'm passionate about technology 💻</h3>
+<h3 align="center">I'm passionate about technology</h3>
 
-- 👨‍💻 All of my projects are available at 👉🏼 [https://javierblanco.pro/](https://javierblanco.pro/)
+- 👨‍💻 All of my projects are available at [https://javierblanco.pro/](https://javierblanco.pro/)
 
-- 💬 Ask me about **✅ HTML, CSS, JavaScript, PHP, SEO and WordPress**
+- 💬 Ask me about **HTML, CSS, JavaScript and PHP**
 
-- 📫 How to reach me 👉🏼 **info@javierblanco.pro**
+- 📫 How to reach me **info@javierblanco.pro**
 
-<h3 align="left">About me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-I'm a normal person, who tries to solve the maximum possible problems, causing as few problems as possible.
-
-I'm 👁️ Optometrist and 👂🏻Audiologist.
-
-I love my 🥼 health profession just as I love renewing my knowledge, and there is no doubt that the future goes hand in hand with technology 💻, which is why I decided to study programming: The branch I have bet on in the long term.
+<a href="https://linkedin.com/in/javierblancopro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierblancopro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
